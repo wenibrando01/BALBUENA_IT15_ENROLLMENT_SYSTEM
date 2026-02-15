@@ -7,7 +7,7 @@
                 <x-application-logo class="w-full h-full text-indigo-600" />
             </div>
 
-            <h1 class="text-4xl font-extrabold text-gray-900 mb-4">Skwelahan sa Unahan</h1>
+            <h1 class="text-4xl font-extrabold text-gray-900 mb-4">Skwelahan sa Unahann</h1>
           
 
             <div class="flex items-center justify-center gap-4">
